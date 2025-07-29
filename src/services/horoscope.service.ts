@@ -51,10 +51,6 @@ const captureUserHoroscope = async (
     }
 };
 
-
-
-
-
 const getUserHoroscopeHistory = async (userId: string) => {
     try {
         const sevenDaysAgo = new Date();

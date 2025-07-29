@@ -1,10 +1,18 @@
-# Personalized Horoscope API
-A Node.js backend service that generates personalized daily horoscopes using NodeJS, Express and MongoDB
+# Personalized Horoscope API ✨
+
+A Node.js backend service that generates personalized daily horoscopes with MongoDB and Express.
+
+## 🚀 Getting Started
 
 ### Prerequisites
-- [Node.js](https://nodejs.org/)
-- [MongoDB Atlas](https://www.mongodb.com/atlas/database) account or local MongoDB
+- [Node.js](https://nodejs.org/) (v18+ recommended)
+- [MongoDB](https://www.mongodb.com/) (local or Atlas)
+- [Git](https://git-scm.com/)
 
-### Steps to setup
+### Step to setup
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ArvindOkram/personalize-horoscope.git
+   cd personalize-horoscope
 

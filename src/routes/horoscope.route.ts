@@ -33,7 +33,7 @@ const horoscopeRouter: Router = router();
  *       401:
  *         description: Unauthorized
  */
-horoscopeRouter.get("/today", authenticate,rateLimiter, horoscopeController.getUserHoroscope);
+horoscopeRouter.get("/today", authenticate, rateLimiter, horoscopeController.getUserHoroscope);
 
 /**
  * @swagger
